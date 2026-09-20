@@ -99,6 +99,6 @@ npm run dev
 
 ## Author
 
-**Katakam Pranav Shankar** – [GitHub](https://github.com/yourusername)
+**Katakam Pranav Shankar** – [GitHub](https://github.com/katakampranav)
 
 ---
