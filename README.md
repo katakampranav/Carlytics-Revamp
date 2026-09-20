@@ -6,7 +6,7 @@
 
 ## 🏗️ System Architecture
 
-![System Architecture](./docs/assets/system_architecture.png)
+![System Architecture](<img width="1422" height="702" alt="Image" src="https://github.com/user-attachments/assets/6bb81751-eb19-4f86-9db5-e71d006688a9" />)
 
 ### End-to-End Workflow & Pipeline Nodes
 
@@ -97,4 +97,8 @@ npm install
 npm run dev
 ```
 
-*The web application will be accessible at `http://localhost:3000`.*
+## Author
+
+**Katakam Pranav Shankar** – [GitHub](https://github.com/yourusername)
+
+---
